@@ -1,0 +1,2 @@
+python-docx>=0.8.11
+pydbml>=1.2.0
